@@ -1,5 +1,4 @@
-- Hi, I’m Henrik!
-- I’m interested in RPA, AI, cybersecurity and other related fields of software.
+Hello world!
 
 <!---
 henrikrouhesmaa/henrikrouhesmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
